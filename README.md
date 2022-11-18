@@ -31,6 +31,8 @@ III) Examinar los valores arrojados por el multimetro en el circuito simulado, f
 ![resultados](https://user-images.githubusercontent.com/116821721/202743520-e51fb984-7cff-4447-b511-237d9f4ee700.jpg)
 ![resultados 2](https://user-images.githubusercontent.com/116821721/202743788-0b9b44a1-ca3d-4405-9da2-2236df514db1.jpg)
 
+-------------------------------------------------------------------
+
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 1.5.1-Objetivo de la práctica
@@ -71,48 +73,20 @@ CALCULO DE ERRORES DE LAS MEDICIONES Y COMENTAR LOS RESULTADOS
 
 Con el circuito en físico existe un 20% de error, ya sea por deterioro de las fuentes de voltaje, fallos en las resistenicas u otras circunstancias, el error existe y es del 20%.
 
+------------------------------------------------------------------------
+
+**1.6 VIDEO**
 
 
 
+-----------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**6.CONCLUSIONES**
+**1.7 CONCLUSIONES**
 
 En conclución al aplicar en un circuito de dos fuentes como el propuesto para experimentación pudimos determinar sus corrientes y relaciones por medio de las leyes de Kirchoff haiendo enfasis en los procesos de aanálisis de mallas sonde los valores teoricos tanto como los simulados demostraron ser muy similares ya que estos se trabajan en medios ideales donde las resistencias y tolerancias no afectan las cargas y corrientes, finalmente se expresan en las tablas para podert ver dichas diferencias.
 
-**7.BIBLIOGRAFÍA**
+-------------------------------------------------------
+
+**1.8 BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
