@@ -83,7 +83,6 @@ Con el circuito en físico existe un 20% de error, ya sea por deterioro de las f
 
 **1.7 CONCLUSIONES**
 
-En conclución al aplicar en un circuito de dos fuentes como el propuesto para experimentación pudimos determinar sus corrientes y relaciones por medio de las leyes de Kirchoff haiendo enfasis en los procesos de aanálisis de mallas sonde los valores teoricos tanto como los simulados demostraron ser muy similares ya que estos se trabajan en medios ideales donde las resistencias y tolerancias no afectan las cargas y corrientes, finalmente se expresan en las tablas para podert ver dichas diferencias.
 
 -------------------------------------------------------
 
